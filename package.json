@@ -1,0 +1,19 @@
+{
+  "name": "inventory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo 'not defined'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tdkress:Geburtstag-04021967@github.com/tdkress/Inventory.git"
+  },
+  "author": "TKress",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tdkress/Inventory/issues"
+  },
+  "homepage": "https://github.com/tdkress/Inventory#readme"
+}
